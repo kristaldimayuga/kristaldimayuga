@@ -19,18 +19,12 @@
 
 <br/>
 
-<div align="center">
-  ☆ I'm Currently Learning ☆<br><b>Data Structures and Algorithms and Object-Oriented Programming<b/>
-</div>
-
-<br/>
-
 <div align="center">☆ Technologies & Tools ☆</div>
 
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,figma,javascript" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,figma" />
 </div>
 
 <br/>
